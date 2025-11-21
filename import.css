@@ -1,0 +1,8 @@
+/* ==UserStyle==
+@name           ?
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+@import url("https://raw.githubusercontent.com/d3vop-llc/radware-debloat-stylesheet/refs/heads/main/main.css");
