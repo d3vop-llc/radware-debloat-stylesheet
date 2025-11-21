@@ -1,4 +1,6 @@
 :root {
+  --title-text: "⇒ IT Security";
+  
   --accent-color: #333;
 }
 
@@ -25,7 +27,7 @@
   margin-bottom: -10px;
 }
 .Content__title___25j03::before {
-  content: "⇒ IT Security";
+  content: var(--title-text);
   width: 100%;
   font-size: 2rem;
   color: white;
