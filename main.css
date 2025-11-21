@@ -1,0 +1,54 @@
+:root {
+  --accent-color: #333;
+}
+
+.BrandInfo__additionalLogoContainer___joviZ,
+.index__contactWrapper___35S_J,
+.index__collapse___cu4Jo,
+.index__collapse___1y51s,
+.index__alerts___2cbq3,
+.index__share___23MBr,
+.index__wrap___nXFKV,
+.index__wrap___3QrfT,
+.index__link___wCgdb,
+.BrandInfo__description___1qvvu {
+  display: none;
+}
+.index__teconsent___XBgQF {
+  visibility: hidden;
+}
+.Content__title___25j03 {
+  width: 100%;
+  padding: 0 !important;
+  color: transparent;
+  text-align: center;
+  margin-bottom: -10px;
+}
+.Content__title___25j03::before {
+  content: "⇒ IT Security";
+  width: 100%;
+  font-size: 2rem;
+  color: white;
+  position: relative;
+  text-align: center;
+}
+.index__link___wCgdb:first-child {
+  display: block;
+  margin-bottom: -20px;
+}
+.Content__inner___3LlJF {
+  overflow-y: hidden !important;
+}
+.index__wrap___3cIby {
+  border: solid 1px var(--accent-color);
+}
+.Content__interval___26DNP {
+  border-bottom: solid 1px var(--accent-color);
+}
+.Divider__wrap___3KMCB::before {
+  background-image: linear-gradient(
+    to right,
+    var(--accent-color),
+    rgba(30, 108, 118, 0)
+  );
+}
